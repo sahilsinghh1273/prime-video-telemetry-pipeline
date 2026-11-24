@@ -1,0 +1,364 @@
+[2026-11-05T19:34:05.250746+00:00] User: usr_0026 | Event: PLAY | Movie: Gladiator | Pos: 0s / 9300s
+[2026-11-05T19:34:06.251807+00:00] User: usr_0026 | Event: SEEK | Movie: Gladiator | Pos: 2138s / 9300s
+[2026-11-05T19:34:07.253554+00:00] User: usr_0026 | Event: PLAY | Movie: Gladiator | Pos: 2186s / 9300s
+[2026-11-05T19:34:08.254765+00:00] User: usr_0026 | Event: PLAY | Movie: Gladiator | Pos: 2234s / 9300s
+[2026-11-05T19:34:09.255988+00:00] User: usr_0026 | Event: PLAY | Movie: Gladiator | Pos: 2274s / 9300s
+[2026-11-05T19:34:10.257661+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 0s / 7500s
+[2026-11-05T19:34:11.259088+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 22s / 7500s
+[2026-11-05T19:34:12.260351+00:00] User: usr_0026 | Event: PLAY | Movie: Gladiator | Pos: 2327s / 9300s
+[2026-11-05T19:34:13.261380+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 0s / 7500s
+[2026-11-05T19:34:14.262561+00:00] User: usr_0038 | Event: SEEK | Movie: Spirited Away | Pos: 2577s / 7500s
+[2026-11-05T19:34:15.264116+00:00] User: usr_0016 | Event: BUFFERING | Movie: Spirited Away | Pos: 26s / 7500s
+[2026-11-05T19:34:16.265598+00:00] User: usr_0044 | Event: PLAY | Movie: Spirited Away | Pos: 0s / 7500s
+[2026-11-05T19:34:17.267287+00:00] User: usr_0016 | Event: RESUME | Movie: Spirited Away | Pos: 26s / 7500s
+[2026-11-05T19:34:18.268770+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 2623s / 7500s
+[2026-11-05T19:34:19.269992+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 0s / 9300s
+[2026-11-05T19:34:20.271127+00:00] User: usr_0026 | Event: STOP | Movie: Gladiator | Pos: 2369s / 9300s
+[2026-11-05T19:34:21.272118+00:00] User: usr_0038 | Event: SEEK | Movie: Spirited Away | Pos: 2972s / 7500s
+[2026-11-05T19:34:22.273397+00:00] User: usr_0044 | Event: PLAY | Movie: Spirited Away | Pos: 46s / 7500s
+[2026-11-05T19:34:23.275000+00:00] User: usr_0044 | Event: PLAY | Movie: Spirited Away | Pos: 102s / 7500s
+[2026-11-05T19:34:24.276277+00:00] User: usr_0038 | Event: BUFFERING | Movie: Spirited Away | Pos: 2999s / 7500s
+[2026-11-05T19:34:25.277661+00:00] User: usr_0038 | Event: BUFFERING | Movie: Spirited Away | Pos: 2999s / 7500s
+[2026-11-05T19:34:26.278464+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 16s / 9300s
+[2026-11-05T19:34:27.279528+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 0s / 7920s
+[2026-11-05T19:34:28.280852+00:00] User: usr_0038 | Event: RESUME | Movie: Spirited Away | Pos: 2999s / 7500s
+[2026-11-05T19:34:29.281887+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 0s / 8160s
+[2026-11-05T19:34:30.283052+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 69s / 9300s
+[2026-11-05T19:34:31.284404+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 0s / 10140s
+[2026-11-05T19:34:32.285643+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 54s / 8160s
+[2026-11-05T19:34:33.287202+00:00] User: usr_0044 | Event: STOP | Movie: Spirited Away | Pos: 157s / 7500s
+[2026-11-05T19:34:34.288916+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 18s / 7920s
+[2026-11-05T19:34:35.289949+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 47s / 10140s
+[2026-11-05T19:34:36.291631+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 75s / 10140s
+[2026-11-05T19:34:37.292796+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 0s / 7920s
+[2026-11-05T19:34:38.293813+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 107s / 8160s
+[2026-11-05T19:34:39.295065+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3046s / 7500s
+[2026-11-05T19:34:40.296409+00:00] User: usr_0036 | Event: PAUSE | Movie: Interstellar | Pos: 129s / 10140s
+[2026-11-05T19:34:41.297753+00:00] User: usr_0024 | Event: PLAY | Movie: The Dark Knight | Pos: 0s / 9120s
+[2026-11-05T19:34:42.299783+00:00] User: usr_0009 | Event: PLAY | Movie: Parasite | Pos: 0s / 7920s
+[2026-11-05T19:34:43.301275+00:00] User: usr_0009 | Event: PLAY | Movie: Parasite | Pos: 24s / 7920s
+[2026-11-05T19:34:44.302688+00:00] User: usr_0016 | Event: BUFFERING | Movie: Spirited Away | Pos: 74s / 7500s
+[2026-11-05T19:34:45.303894+00:00] User: usr_0016 | Event: RESUME | Movie: Spirited Away | Pos: 74s / 7500s
+[2026-11-05T19:34:46.305036+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 0s / 7920s
+[2026-11-05T19:34:47.306122+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 0s / 9120s
+[2026-11-05T19:34:48.307795+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 0s / 10500s
+[2026-11-05T19:34:49.309441+00:00] User: usr_0034 | Event: PLAY | Movie: The Dark Knight | Pos: 0s / 9120s
+[2026-11-05T19:34:50.310796+00:00] User: usr_0016 | Event: BUFFERING | Movie: Spirited Away | Pos: 114s / 7500s
+[2026-11-05T19:34:51.311882+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 0s / 7500s
+[2026-11-05T19:34:52.313318+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 60s / 7500s
+[2026-11-05T19:34:53.314310+00:00] User: usr_0036 | Event: RESUME | Movie: Interstellar | Pos: 129s / 10140s
+[2026-11-05T19:34:54.315690+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 109s / 7500s
+[2026-11-05T19:34:55.316980+00:00] User: usr_0017 | Event: BUFFERING | Movie: The Godfather | Pos: 52s / 10500s
+[2026-11-05T19:34:56.318261+00:00] User: usr_0018 | Event: SEEK | Movie: Parasite | Pos: 1208s / 7920s
+[2026-11-05T19:34:57.319661+00:00] User: usr_0045 | Event: BUFFERING | Movie: The Dark Knight | Pos: 15s / 9120s
+[2026-11-05T19:34:58.320729+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 0s / 7500s
+[2026-11-05T19:34:59.322146+00:00] User: usr_0034 | Event: PLAY | Movie: The Dark Knight | Pos: 17s / 9120s
+[2026-11-05T19:35:00.323422+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 153s / 8160s
+[2026-11-05T19:35:01.324790+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 98s / 9300s
+[2026-11-05T19:35:02.326056+00:00] User: usr_0024 | Event: PLAY | Movie: The Dark Knight | Pos: 55s / 9120s
+[2026-11-05T19:35:03.327272+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 33s / 7500s
+[2026-11-05T19:35:04.328213+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 72s / 7500s
+[2026-11-05T19:35:05.329356+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 106s / 7500s
+[2026-11-05T19:35:06.330658+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 53s / 7920s
+[2026-11-05T19:35:07.331970+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1232s / 7920s
+[2026-11-05T19:35:08.333077+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3080s / 7500s
+[2026-11-05T19:35:09.334244+00:00] User: usr_0034 | Event: PLAY | Movie: The Dark Knight | Pos: 41s / 9120s
+[2026-11-05T19:35:10.335441+00:00] User: usr_0044 | Event: BUFFERING | Movie: Gladiator | Pos: 137s / 9300s
+[2026-11-05T19:35:11.336942+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 40s / 7920s
+[2026-11-05T19:35:12.338229+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 139s / 7500s
+[2026-11-05T19:35:13.339498+00:00] User: usr_0009 | Event: PLAY | Movie: Parasite | Pos: 51s / 7920s
+[2026-11-05T19:35:14.341068+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 109s / 7500s
+[2026-11-05T19:35:15.342246+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1283s / 7920s
+[2026-11-05T19:35:16.343985+00:00] User: usr_0017 | Event: RESUME | Movie: The Godfather | Pos: 52s / 10500s
+[2026-11-05T19:35:17.344969+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1325s / 7920s
+[2026-11-05T19:35:18.346908+00:00] User: usr_0017 | Event: BUFFERING | Movie: The Godfather | Pos: 78s / 10500s
+[2026-11-05T19:35:19.348134+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 186s / 7500s
+[2026-11-05T19:35:20.349472+00:00] User: usr_0038 | Event: PAUSE | Movie: Spirited Away | Pos: 3134s / 7500s
+[2026-11-05T19:35:21.350761+00:00] User: usr_0044 | Event: RESUME | Movie: Gladiator | Pos: 137s / 9300s
+[2026-11-05T19:35:22.351953+00:00] User: usr_0045 | Event: RESUME | Movie: The Dark Knight | Pos: 15s / 9120s
+[2026-11-05T19:35:23.352799+00:00] User: usr_0024 | Event: PLAY | Movie: The Dark Knight | Pos: 84s / 9120s
+[2026-11-05T19:35:24.354699+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1383s / 7920s
+[2026-11-05T19:35:25.356365+00:00] User: usr_0038 | Event: RESUME | Movie: Spirited Away | Pos: 3134s / 7500s
+[2026-11-05T19:35:26.358196+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 220s / 7500s
+[2026-11-05T19:35:27.359446+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 109s / 7500s
+[2026-11-05T19:35:28.360671+00:00] User: usr_0009 | Event: PAUSE | Movie: Parasite | Pos: 74s / 7920s
+[2026-11-05T19:35:29.362011+00:00] User: usr_0018 | Event: BUFFERING | Movie: Parasite | Pos: 1436s / 7920s
+[2026-11-05T19:35:30.363238+00:00] User: usr_0009 | Event: PAUSE | Movie: Parasite | Pos: 74s / 7920s
+[2026-11-05T19:35:31.364794+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 180s / 10140s
+[2026-11-05T19:35:32.365815+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 60s / 9120s
+[2026-11-05T19:35:33.367086+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 206s / 8160s
+[2026-11-05T19:35:34.368863+00:00] User: usr_0016 | Event: BUFFERING | Movie: Spirited Away | Pos: 114s / 7500s
+[2026-11-05T19:35:35.370207+00:00] User: usr_0036 | Event: PAUSE | Movie: Interstellar | Pos: 237s / 10140s
+[2026-11-05T19:35:36.371679+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 131s / 7500s
+[2026-11-05T19:35:37.372844+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 97s / 7920s
+[2026-11-05T19:35:38.374372+00:00] User: usr_0026 | Event: PAUSE | Movie: Spirited Away | Pos: 177s / 7500s
+[2026-11-05T19:35:39.376194+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 233s / 8160s
+[2026-11-05T19:35:40.377686+00:00] User: usr_0024 | Event: STOP | Movie: The Dark Knight | Pos: 129s / 9120s
+[2026-11-05T19:35:41.378971+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 1436s / 7920s
+[2026-11-05T19:35:42.380220+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 0s / 9300s
+[2026-11-05T19:35:43.381346+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 58s / 9300s
+[2026-11-05T19:35:44.383084+00:00] User: usr_0018 | Event: SEEK | Movie: Parasite | Pos: 3596s / 7920s
+[2026-11-05T19:35:45.384338+00:00] User: usr_0034 | Event: PAUSE | Movie: The Dark Knight | Pos: 88s / 9120s
+[2026-11-05T19:35:46.385716+00:00] User: usr_0034 | Event: RESUME | Movie: The Dark Knight | Pos: 88s / 9120s
+[2026-11-05T19:35:47.386983+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 110s / 9300s
+[2026-11-05T19:35:48.388120+00:00] User: usr_0009 | Event: STOP | Movie: Parasite | Pos: 74s / 7920s
+[2026-11-05T19:35:49.389593+00:00] User: usr_0012 | Event: PLAY | Movie: Avengers: Endgame | Pos: 0s / 10860s
+[2026-11-05T19:35:50.399995+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 189s / 9300s
+[2026-11-05T19:35:51.401272+00:00] User: usr_0036 | Event: RESUME | Movie: Interstellar | Pos: 237s / 10140s
+[2026-11-05T19:35:52.402345+00:00] User: usr_0012 | Event: BUFFERING | Movie: Avengers: Endgame | Pos: 35s / 10860s
+[2026-11-05T19:35:53.403967+00:00] User: usr_0012 | Event: STOP | Movie: Avengers: Endgame | Pos: 35s / 10860s
+[2026-11-05T19:35:54.405463+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 262s / 8160s
+[2026-11-05T19:35:55.407129+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 3652s / 7920s
+[2026-11-05T19:35:56.408318+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 0s / 8880s
+[2026-11-05T19:35:57.431063+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1495s / 7920s
+[2026-11-05T19:35:58.432351+00:00] User: usr_0038 | Event: PAUSE | Movie: Spirited Away | Pos: 3180s / 7500s
+[2026-11-05T19:35:59.434148+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 75s / 9120s
+[2026-11-05T19:36:00.435283+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 278s / 8160s
+[2026-11-05T19:36:01.436670+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 98s / 7920s
+[2026-11-05T19:36:02.437980+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 293s / 8160s
+[2026-11-05T19:36:03.439641+00:00] User: usr_0017 | Event: RESUME | Movie: The Godfather | Pos: 78s / 10500s
+[2026-11-05T19:36:04.441283+00:00] User: usr_0008 | Event: SEEK | Movie: Gladiator | Pos: 8256s / 9300s
+[2026-11-05T19:36:05.442562+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 19s / 8880s
+[2026-11-05T19:36:06.443731+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 177s / 7500s
+[2026-11-05T19:36:07.445666+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 157s / 7920s
+[2026-11-05T19:36:08.447572+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 3674s / 7920s
+[2026-11-05T19:36:09.448890+00:00] User: usr_0016 | Event: BUFFERING | Movie: Spirited Away | Pos: 114s / 7500s
+[2026-11-05T19:36:10.449944+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1518s / 7920s
+[2026-11-05T19:36:11.451590+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1544s / 7920s
+[2026-11-05T19:36:12.453393+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 200s / 7500s
+[2026-11-05T19:36:13.455087+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 296s / 10140s
+[2026-11-05T19:36:14.456386+00:00] User: usr_0038 | Event: RESUME | Movie: Spirited Away | Pos: 3180s / 7500s
+[2026-11-05T19:36:15.457795+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 49s / 8880s
+[2026-11-05T19:36:16.459123+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 178s / 7920s
+[2026-11-05T19:36:17.460501+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3215s / 7500s
+[2026-11-05T19:36:18.462110+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 107s / 10500s
+[2026-11-05T19:36:19.463086+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3237s / 7500s
+[2026-11-05T19:36:20.464718+00:00] User: usr_0034 | Event: PAUSE | Movie: The Dark Knight | Pos: 106s / 9120s
+[2026-11-05T19:36:21.465870+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8312s / 9300s
+[2026-11-05T19:36:22.466959+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 343s / 10140s
+[2026-11-05T19:36:23.468439+00:00] User: usr_0017 | Event: PAUSE | Movie: The Godfather | Pos: 136s / 10500s
+[2026-11-05T19:36:24.469301+00:00] User: usr_0018 | Event: BUFFERING | Movie: Parasite | Pos: 1604s / 7920s
+[2026-11-05T19:36:25.470482+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 259s / 7500s
+[2026-11-05T19:36:26.471696+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 372s / 10140s
+[2026-11-05T19:36:27.473139+00:00] User: usr_0016 | Event: RESUME | Movie: Spirited Away | Pos: 114s / 7500s
+[2026-11-05T19:36:28.474570+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 277s / 7500s
+[2026-11-05T19:36:29.475850+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 314s / 8160s
+[2026-11-05T19:36:30.476861+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 90s / 8880s
+[2026-11-05T19:36:31.478608+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 337s / 7500s
+[2026-11-05T19:36:32.479798+00:00] User: usr_0038 | Event: PAUSE | Movie: Spirited Away | Pos: 3287s / 7500s
+[2026-11-05T19:36:33.481003+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 219s / 9300s
+[2026-11-05T19:36:34.482146+00:00] User: usr_0034 | Event: PAUSE | Movie: The Dark Knight | Pos: 106s / 9120s
+[2026-11-05T19:36:35.483163+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 3674s / 7920s
+[2026-11-05T19:36:36.484092+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 403s / 10140s
+[2026-11-05T19:36:37.485692+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 119s / 9120s
+[2026-11-05T19:36:38.488797+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 1604s / 7920s
+[2026-11-05T19:36:39.490267+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1650s / 7920s
+[2026-11-05T19:36:40.491381+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 145s / 7500s
+[2026-11-05T19:36:41.492743+00:00] User: usr_0008 | Event: BUFFERING | Movie: Gladiator | Pos: 8365s / 9300s
+[2026-11-05T19:36:42.493768+00:00] User: usr_0050 | Event: SEEK | Movie: The Matrix | Pos: 7342s / 8160s
+[2026-11-05T19:36:43.495226+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 175s / 7500s
+[2026-11-05T19:36:44.496257+00:00] User: usr_0045 | Event: PAUSE | Movie: The Dark Knight | Pos: 177s / 9120s
+[2026-11-05T19:36:45.497277+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 308s / 7500s
+[2026-11-05T19:36:46.498378+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 1685s / 7920s
+[2026-11-05T19:36:47.499136+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 343s / 7500s
+[2026-11-05T19:36:48.500628+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 3674s / 7920s
+[2026-11-05T19:36:49.502382+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 7402s / 8160s
+[2026-11-05T19:36:50.504193+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 384s / 7500s
+[2026-11-05T19:36:51.505162+00:00] User: usr_0034 | Event: PAUSE | Movie: The Dark Knight | Pos: 106s / 9120s
+[2026-11-05T19:36:52.506108+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 239s / 9300s
+[2026-11-05T19:36:53.507541+00:00] User: usr_0038 | Event: RESUME | Movie: Spirited Away | Pos: 3287s / 7500s
+[2026-11-05T19:36:54.509002+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 277s / 9300s
+[2026-11-05T19:36:55.510094+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 202s / 7920s
+[2026-11-05T19:36:56.510995+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 388s / 7500s
+[2026-11-05T19:36:57.511870+00:00] User: usr_0034 | Event: STOP | Movie: The Dark Knight | Pos: 106s / 9120s
+[2026-11-05T19:36:58.512926+00:00] User: usr_0050 | Event: PLAY | Movie: Gladiator | Pos: 0s / 9300s
+[2026-11-05T19:36:59.513859+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 305s / 9300s
+[2026-11-05T19:37:00.515407+00:00] User: usr_0016 | Event: PAUSE | Movie: Spirited Away | Pos: 220s / 7500s
+[2026-11-05T19:37:01.516622+00:00] User: usr_0050 | Event: PLAY | Movie: Gladiator | Pos: 43s / 9300s
+[2026-11-05T19:37:02.518123+00:00] User: usr_0008 | Event: RESUME | Movie: Gladiator | Pos: 8365s / 9300s
+[2026-11-05T19:37:03.519459+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 341s / 9300s
+[2026-11-05T19:37:04.520908+00:00] User: usr_0045 | Event: RESUME | Movie: The Dark Knight | Pos: 177s / 9120s
+[2026-11-05T19:37:05.522885+00:00] User: usr_0032 | Event: PAUSE | Movie: Spirited Away | Pos: 412s / 7500s
+[2026-11-05T19:37:06.524532+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 412s / 7500s
+[2026-11-05T19:37:07.525526+00:00] User: usr_0016 | Event: RESUME | Movie: Spirited Away | Pos: 220s / 7500s
+[2026-11-05T19:37:08.526924+00:00] User: usr_0017 | Event: RESUME | Movie: The Godfather | Pos: 136s / 10500s
+[2026-11-05T19:37:09.528254+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 412s / 7500s
+[2026-11-05T19:37:10.529315+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 1685s / 7920s
+[2026-11-05T19:37:11.530225+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 211s / 9120s
+[2026-11-05T19:37:12.531865+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3328s / 7500s
+[2026-11-05T19:37:13.533527+00:00] User: usr_0050 | Event: PAUSE | Movie: The Matrix | Pos: 7460s / 8160s
+[2026-11-05T19:37:14.534680+00:00] User: usr_0050 | Event: RESUME | Movie: The Matrix | Pos: 7460s / 8160s
+[2026-11-05T19:37:15.536382+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 126s / 8880s
+[2026-11-05T19:37:16.537837+00:00] User: usr_0032 | Event: RESUME | Movie: Spirited Away | Pos: 412s / 7500s
+[2026-11-05T19:37:17.538845+00:00] User: usr_0045 | Event: PAUSE | Movie: The Dark Knight | Pos: 270s / 9120s
+[2026-11-05T19:37:18.540261+00:00] User: usr_0016 | Event: PAUSE | Movie: Spirited Away | Pos: 279s / 7500s
+[2026-11-05T19:37:19.541896+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 157s / 8880s
+[2026-11-05T19:37:20.543291+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 193s / 10500s
+[2026-11-05T19:37:21.544842+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 434s / 10140s
+[2026-11-05T19:37:22.546078+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 1685s / 7920s
+[2026-11-05T19:37:23.547053+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 7512s / 8160s
+[2026-11-05T19:37:24.548104+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 3690s / 7920s
+[2026-11-05T19:37:25.549563+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 7537s / 8160s
+[2026-11-05T19:37:26.550890+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 451s / 10140s
+[2026-11-05T19:37:27.551715+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3354s / 7500s
+[2026-11-05T19:37:28.553040+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1739s / 7920s
+[2026-11-05T19:37:29.554059+00:00] User: usr_0038 | Event: BUFFERING | Movie: Spirited Away | Pos: 3385s / 7500s
+[2026-11-05T19:37:30.555862+00:00] User: usr_0034 | Event: SEEK | Movie: Inception | Pos: 6915s / 8880s
+[2026-11-05T19:37:31.557452+00:00] User: usr_0045 | Event: RESUME | Movie: The Dark Knight | Pos: 270s / 9120s
+[2026-11-05T19:37:32.559103+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 1792s / 7920s
+[2026-11-05T19:37:33.560007+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 1792s / 7920s
+[2026-11-05T19:37:34.561140+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 3733s / 7920s
+[2026-11-05T19:37:35.562176+00:00] User: usr_0016 | Event: RESUME | Movie: Spirited Away | Pos: 279s / 7500s
+[2026-11-05T19:37:36.563319+00:00] User: usr_0045 | Event: SEEK | Movie: The Dark Knight | Pos: 6143s / 9120s
+[2026-11-05T19:37:37.564178+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 3789s / 7920s
+[2026-11-05T19:37:38.565292+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1847s / 7920s
+[2026-11-05T19:37:39.566459+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1869s / 7920s
+[2026-11-05T19:37:40.567641+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8410s / 9300s
+[2026-11-05T19:37:41.568552+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 234s / 10500s
+[2026-11-05T19:37:42.569576+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 258s / 7920s
+[2026-11-05T19:37:43.570410+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 372s / 9300s
+[2026-11-05T19:37:44.571572+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 412s / 7500s
+[2026-11-05T19:37:45.573215+00:00] User: usr_0050 | Event: PLAY | Movie: The Matrix | Pos: 7572s / 8160s
+[2026-11-05T19:37:46.574388+00:00] User: usr_0018 | Event: SEEK | Movie: Parasite | Pos: 234s / 7920s
+[2026-11-05T19:37:47.575879+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 6975s / 8880s
+[2026-11-05T19:37:48.577224+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1899s / 7920s
+[2026-11-05T19:37:49.579051+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1927s / 7920s
+[2026-11-05T19:37:50.580294+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 458s / 7500s
+[2026-11-05T19:37:51.581695+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 275s / 7920s
+[2026-11-05T19:37:52.582899+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 1947s / 7920s
+[2026-11-05T19:37:53.584397+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 266s / 10500s
+[2026-11-05T19:37:54.585630+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 482s / 10140s
+[2026-11-05T19:37:55.586990+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 452s / 7500s
+[2026-11-05T19:37:56.587885+00:00] User: usr_0006 | Event: SEEK | Movie: Parasite | Pos: 5234s / 7920s
+[2026-11-05T19:37:57.588875+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 332s / 7920s
+[2026-11-05T19:37:58.590041+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 5268s / 7920s
+[2026-11-05T19:37:59.591573+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 508s / 7500s
+[2026-11-05T19:38:00.592765+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 379s / 7920s
+[2026-11-05T19:38:01.594327+00:00] User: usr_0036 | Event: PLAY | Movie: Interstellar | Pos: 525s / 10140s
+[2026-11-05T19:38:02.595761+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 484s / 7500s
+[2026-11-05T19:38:03.596765+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 7025s / 8880s
+[2026-11-05T19:38:04.598453+00:00] User: usr_0050 | Event: PAUSE | Movie: The Matrix | Pos: 7589s / 8160s
+[2026-11-05T19:38:05.599600+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 404s / 9300s
+[2026-11-05T19:38:06.600978+00:00] User: usr_0026 | Event: PAUSE | Movie: Spirited Away | Pos: 544s / 7500s
+[2026-11-05T19:38:07.602122+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 544s / 7500s
+[2026-11-05T19:38:08.603391+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 574s / 7500s
+[2026-11-05T19:38:09.605194+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 574s / 7500s
+[2026-11-05T19:38:10.606418+00:00] User: usr_0018 | Event: BUFFERING | Movie: Parasite | Pos: 1983s / 7920s
+[2026-11-05T19:38:11.607603+00:00] User: usr_0050 | Event: STOP | Movie: The Matrix | Pos: 7589s / 8160s
+[2026-11-05T19:38:12.608729+00:00] User: usr_0044 | Event: PAUSE | Movie: Gladiator | Pos: 464s / 9300s
+[2026-11-05T19:38:13.610152+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 0s / 9300s
+[2026-11-05T19:38:14.611588+00:00] User: usr_0044 | Event: RESUME | Movie: Gladiator | Pos: 464s / 9300s
+[2026-11-05T19:38:15.613449+00:00] User: usr_0017 | Event: PAUSE | Movie: The Godfather | Pos: 316s / 10500s
+[2026-11-05T19:38:16.614774+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 491s / 9300s
+[2026-11-05T19:38:17.616198+00:00] User: usr_0044 | Event: PAUSE | Movie: Gladiator | Pos: 533s / 9300s
+[2026-11-05T19:38:18.617238+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8436s / 9300s
+[2026-11-05T19:38:19.618277+00:00] User: usr_0038 | Event: RESUME | Movie: Spirited Away | Pos: 3385s / 7500s
+[2026-11-05T19:38:20.619954+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 6186s / 9120s
+[2026-11-05T19:38:21.621295+00:00] User: usr_0044 | Event: RESUME | Movie: Gladiator | Pos: 533s / 9300s
+[2026-11-05T19:38:22.622766+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8471s / 9300s
+[2026-11-05T19:38:23.623842+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 1983s / 7920s
+[2026-11-05T19:38:24.624961+00:00] User: usr_0017 | Event: RESUME | Movie: The Godfather | Pos: 316s / 10500s
+[2026-11-05T19:38:25.626462+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8504s / 9300s
+[2026-11-05T19:38:26.628006+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 618s / 7500s
+[2026-11-05T19:38:27.629315+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 3427s / 7500s
+[2026-11-05T19:38:28.631134+00:00] User: usr_0017 | Event: PLAY | Movie: The Godfather | Pos: 361s / 10500s
+[2026-11-05T19:38:29.632489+00:00] User: usr_0032 | Event: PAUSE | Movie: Spirited Away | Pos: 554s / 7500s
+[2026-11-05T19:38:30.633561+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 579s / 9300s
+[2026-11-05T19:38:31.635174+00:00] User: usr_0036 | Event: BUFFERING | Movie: Interstellar | Pos: 557s / 10140s
+[2026-11-05T19:38:32.635976+00:00] User: usr_0032 | Event: RESUME | Movie: Spirited Away | Pos: 554s / 7500s
+[2026-11-05T19:38:33.637255+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 5308s / 7920s
+[2026-11-05T19:38:34.638389+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 57s / 9300s
+[2026-11-05T19:38:35.639842+00:00] User: usr_0007 | Event: SEEK | Movie: Gladiator | Pos: 6637s / 9300s
+[2026-11-05T19:38:36.640972+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 379s / 7920s
+[2026-11-05T19:38:37.642480+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 674s / 7500s
+[2026-11-05T19:38:38.644188+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 611s / 7500s
+[2026-11-05T19:38:39.645347+00:00] User: usr_0036 | Event: RESUME | Movie: Interstellar | Pos: 557s / 10140s
+[2026-11-05T19:38:40.646733+00:00] User: usr_0038 | Event: SEEK | Movie: Spirited Away | Pos: 972s / 7500s
+[2026-11-05T19:38:41.647897+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 5327s / 7920s
+[2026-11-05T19:38:42.649589+00:00] User: usr_0050 | Event: PLAY | Movie: Gladiator | Pos: 63s / 9300s
+[2026-11-05T19:38:43.650817+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 6228s / 9120s
+[2026-11-05T19:38:44.651877+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 714s / 7500s
+[2026-11-05T19:38:45.653173+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 1008s / 7500s
+[2026-11-05T19:38:46.654679+00:00] User: usr_0045 | Event: PLAY | Movie: The Dark Knight | Pos: 6264s / 9120s
+[2026-11-05T19:38:47.656031+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 762s / 7500s
+[2026-11-05T19:38:48.656804+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 619s / 9300s
+[2026-11-05T19:38:49.658488+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 667s / 7500s
+[2026-11-05T19:38:50.659834+00:00] User: usr_0006 | Event: PAUSE | Movie: Parasite | Pos: 5364s / 7920s
+[2026-11-05T19:38:51.661735+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 7079s / 8880s
+[2026-11-05T19:38:52.662836+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 657s / 9300s
+[2026-11-05T19:38:53.664053+00:00] User: usr_0018 | Event: STOP | Movie: Parasite | Pos: 2023s / 7920s
+[2026-11-05T19:38:54.665281+00:00] User: usr_0016 | Event: PLAY | Movie: Inception | Pos: 0s / 8880s
+[2026-11-05T19:38:55.666561+00:00] User: usr_0017 | Event: PAUSE | Movie: The Godfather | Pos: 391s / 10500s
+[2026-11-05T19:38:56.668115+00:00] User: usr_0016 | Event: BUFFERING | Movie: Inception | Pos: 39s / 8880s
+[2026-11-05T19:38:57.669341+00:00] User: usr_0038 | Event: PLAY | Movie: Spirited Away | Pos: 1027s / 7500s
+[2026-11-05T19:38:58.670721+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 6696s / 9300s
+[2026-11-05T19:38:59.672051+00:00] User: usr_0045 | Event: STOP | Movie: The Dark Knight | Pos: 6288s / 9120s
+[2026-11-05T19:39:00.673131+00:00] User: usr_0017 | Event: STOP | Movie: The Godfather | Pos: 391s / 10500s
+[2026-11-05T19:39:01.674588+00:00] User: usr_0050 | Event: SEEK | Movie: Gladiator | Pos: 1172s / 9300s
+[2026-11-05T19:39:02.676266+00:00] User: usr_0004 | Event: PLAY | Movie: The Dark Knight | Pos: 0s / 9120s
+[2026-11-05T19:39:03.677675+00:00] User: usr_0014 | Event: PLAY | Movie: Pulp Fiction | Pos: 0s / 9240s
+[2026-11-05T19:39:04.678598+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 6748s / 9300s
+[2026-11-05T19:39:05.679948+00:00] User: usr_0004 | Event: PLAY | Movie: The Dark Knight | Pos: 42s / 9120s
+[2026-11-05T19:39:06.681568+00:00] User: usr_0006 | Event: RESUME | Movie: Parasite | Pos: 5364s / 7920s
+[2026-11-05T19:39:07.683326+00:00] User: usr_0016 | Event: BUFFERING | Movie: Inception | Pos: 39s / 8880s
+[2026-11-05T19:39:08.684496+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 414s / 7920s
+[2026-11-05T19:39:09.685905+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 5403s / 7920s
+[2026-11-05T19:39:10.686944+00:00] User: usr_0044 | Event: PLAY | Movie: Gladiator | Pos: 704s / 9300s
+[2026-11-05T19:39:11.689062+00:00] User: usr_0018 | Event: PLAY | Movie: Parasite | Pos: 434s / 7920s
+[2026-11-05T19:39:12.690535+00:00] User: usr_0038 | Event: STOP | Movie: Spirited Away | Pos: 1076s / 7500s
+[2026-11-05T19:39:13.691766+00:00] User: usr_0016 | Event: PLAY | Movie: The Godfather | Pos: 0s / 10500s
+[2026-11-05T19:39:14.693037+00:00] User: usr_0036 | Event: PAUSE | Movie: Interstellar | Pos: 608s / 10140s
+[2026-11-05T19:39:15.694154+00:00] User: usr_0018 | Event: BUFFERING | Movie: Parasite | Pos: 493s / 7920s
+[2026-11-05T19:39:16.695520+00:00] User: usr_0032 | Event: BUFFERING | Movie: Spirited Away | Pos: 722s / 7500s
+[2026-11-05T19:39:17.696942+00:00] User: usr_0050 | Event: PLAY | Movie: Gladiator | Pos: 1193s / 9300s
+[2026-11-05T19:39:18.698272+00:00] User: usr_0032 | Event: RESUME | Movie: Spirited Away | Pos: 722s / 7500s
+[2026-11-05T19:39:19.699953+00:00] User: usr_0006 | Event: PLAY | Movie: Parasite | Pos: 5431s / 7920s
+[2026-11-05T19:39:20.701319+00:00] User: usr_0004 | Event: PLAY | Movie: The Dark Knight | Pos: 80s / 9120s
+[2026-11-05T19:39:21.702665+00:00] User: usr_0036 | Event: RESUME | Movie: Interstellar | Pos: 608s / 10140s
+[2026-11-05T19:39:22.704157+00:00] User: usr_0014 | Event: PLAY | Movie: Pulp Fiction | Pos: 46s / 9240s
+[2026-11-05T19:39:23.705419+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 742s / 7500s
+[2026-11-05T19:39:24.707191+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 6781s / 9300s
+[2026-11-05T19:39:25.708382+00:00] User: usr_0016 | Event: BUFFERING | Movie: Inception | Pos: 39s / 8880s
+[2026-11-05T19:39:26.710370+00:00] User: usr_0026 | Event: BUFFERING | Movie: Spirited Away | Pos: 762s / 7500s
+[2026-11-05T19:39:27.711869+00:00] User: usr_0036 | Event: SEEK | Movie: Interstellar | Pos: 2910s / 10140s
+[2026-11-05T19:39:28.713380+00:00] User: usr_0008 | Event: BUFFERING | Movie: Gladiator | Pos: 8554s / 9300s
+[2026-11-05T19:39:29.715062+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 793s / 7500s
+[2026-11-05T19:39:30.716458+00:00] User: usr_0004 | Event: PAUSE | Movie: The Dark Knight | Pos: 121s / 9120s
+[2026-11-05T19:39:31.717869+00:00] User: usr_0004 | Event: RESUME | Movie: The Dark Knight | Pos: 121s / 9120s
+[2026-11-05T19:39:32.719239+00:00] User: usr_0016 | Event: RESUME | Movie: Inception | Pos: 39s / 8880s
+[2026-11-05T19:39:33.720277+00:00] User: usr_0018 | Event: RESUME | Movie: Parasite | Pos: 493s / 7920s
+[2026-11-05T19:39:34.721331+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 335s / 7500s
+[2026-11-05T19:39:35.722746+00:00] User: usr_0034 | Event: PLAY | Movie: Inception | Pos: 7133s / 8880s
+[2026-11-05T19:39:36.724040+00:00] User: usr_0032 | Event: PLAY | Movie: Spirited Away | Pos: 832s / 7500s
+[2026-11-05T19:39:37.725714+00:00] User: usr_0008 | Event: RESUME | Movie: Gladiator | Pos: 8554s / 9300s
+[2026-11-05T19:39:38.726672+00:00] User: usr_0036 | Event: PAUSE | Movie: Interstellar | Pos: 2948s / 10140s
+[2026-11-05T19:39:39.727721+00:00] User: usr_0014 | Event: PLAY | Movie: Pulp Fiction | Pos: 103s / 9240s
+[2026-11-05T19:39:40.728942+00:00] User: usr_0004 | Event: PLAY | Movie: The Dark Knight | Pos: 172s / 9120s
+[2026-11-05T19:39:41.730098+00:00] User: usr_0016 | Event: PLAY | Movie: The Godfather | Pos: 23s / 10500s
+[2026-11-05T19:39:42.731567+00:00] User: usr_0008 | Event: PLAY | Movie: Gladiator | Pos: 8590s / 9300s
+[2026-11-05T19:39:43.732872+00:00] User: usr_0018 | Event: PAUSE | Movie: Parasite | Pos: 514s / 7920s
+[2026-11-05T19:39:44.734116+00:00] User: usr_0008 | Event: BUFFERING | Movie: Gladiator | Pos: 8617s / 9300s
+[2026-11-05T19:39:45.735192+00:00] User: usr_0016 | Event: BUFFERING | Movie: Inception | Pos: 88s / 8880s
+[2026-11-05T19:39:46.736547+00:00] User: usr_0044 | Event: BUFFERING | Movie: Gladiator | Pos: 732s / 9300s
+[2026-11-05T19:39:47.738028+00:00] User: usr_0026 | Event: RESUME | Movie: Spirited Away | Pos: 762s / 7500s
+[2026-11-05T19:39:48.739427+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 784s / 7500s
+[2026-11-05T19:39:49.741059+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 395s / 7500s
+[2026-11-05T19:39:50.742113+00:00] User: usr_0016 | Event: PLAY | Movie: The Godfather | Pos: 52s / 10500s
+[2026-11-05T19:39:51.743843+00:00] User: usr_0036 | Event: RESUME | Movie: Interstellar | Pos: 2948s / 10140s
+[2026-11-05T19:39:52.745381+00:00] User: usr_0007 | Event: PLAY | Movie: Gladiator | Pos: 6817s / 9300s
+[2026-11-05T19:39:53.746741+00:00] User: usr_0007 | Event: PAUSE | Movie: Gladiator | Pos: 6877s / 9300s
+[2026-11-05T19:39:54.747845+00:00] User: usr_0008 | Event: BUFFERING | Movie: Gladiator | Pos: 8617s / 9300s
+[2026-11-05T19:39:55.749012+00:00] User: usr_0032 | Event: STOP | Movie: Spirited Away | Pos: 874s / 7500s
+[2026-11-05T19:39:56.749831+00:00] User: usr_0007 | Event: RESUME | Movie: Gladiator | Pos: 6877s / 9300s
+[2026-11-05T19:39:57.751048+00:00] User: usr_0027 | Event: PLAY | Movie: Parasite | Pos: 0s / 7920s
+[2026-11-05T19:39:58.751951+00:00] User: usr_0050 | Event: PLAY | Movie: Gladiator | Pos: 1218s / 9300s
+[2026-11-05T19:39:59.752915+00:00] User: usr_0016 | Event: BUFFERING | Movie: The Godfather | Pos: 87s / 10500s
+[2026-11-05T19:40:00.753809+00:00] User: usr_0034 | Event: SEEK | Movie: Inception | Pos: 6094s / 8880s
+[2026-11-05T19:40:01.754934+00:00] User: usr_0034 | Event: SEEK | Movie: Inception | Pos: 7290s / 8880s
+[2026-11-05T19:40:02.756113+00:00] User: usr_0004 | Event: PLAY | Movie: The Dark Knight | Pos: 227s / 9120s
+[2026-11-05T19:40:03.756840+00:00] User: usr_0044 | Event: BUFFERING | Movie: Gladiator | Pos: 732s / 9300s
+[2026-11-05T19:40:04.757992+00:00] User: usr_0016 | Event: PLAY | Movie: Spirited Away | Pos: 450s / 7500s
+[2026-11-05T19:40:05.759396+00:00] User: usr_0026 | Event: PLAY | Movie: Spirited Away | Pos: 820s / 7500s
+[2026-11-05T19:40:06.760944+00:00] User: usr_0016 | Event: RESUME | Movie: The Godfather | Pos: 87s / 10500s
+[2026-11-05T19:40:07.762123+00:00] User: usr_0016 | Event: BUFFERING | Movie: Inception | Pos: 88s / 8880s
+[2026-11-05T19:40:08.763564+00:00] User: usr_0004 | Event: PAUSE | Movie: The Dark Knight | Pos: 267s / 9120s
